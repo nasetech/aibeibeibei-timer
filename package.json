@@ -1,0 +1,19 @@
+{
+  "name": "aibeibeibei-timer",
+  "version": "1.0.0",
+  "description": "A timer for callback function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timer"
+  ],
+  "author": "nasetech",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "node-uuid": "^1.4.7",
+    "redis": "^2.6.3"
+  }
+}
